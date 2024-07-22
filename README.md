@@ -1,14 +1,40 @@
-<h1 align="center">Hi 👋, I'm Louis Truptil</h1>
-<h3 align="center">A passionate student from Epitech</h3>
+# 👋 Hi there!
 
-- 🌱 I’m currently learning **C and JS**
+I'm a **2nd Year Epitech Student** and I'm currently working with Adfinitas as a Web Developer for my first-year internship. I am actually learning web development and trying to create nice projects!
 
-- 📫 How to reach me **louis.truptil@epitech.eu**
+## 🌐 Languages
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/louis truptil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="louis truptil" height="30" width="40" /></a>
-</p>
+- 🇬🇧 English
+- 🇫🇷 French
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+## 🔄 Keeping My GitHub Updated
+
+I'm constantly working on updating my GitHub projects and repositories. Check them out to see what I'm currently working on!
+
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=GitHub)](https://github.com/charliinew)
+
+## 📈 My GitHub Statistics
+
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=charliinew&show_icons=true&theme=radical)
+
+## 💻 Tech Skills
+
+### Programming Languages
+- <img src="https://skillicons.dev/icons?i=c" width="20" height="20" /> Deep understanding and proficiency in C programming thanks to Epitech 1st year.
+- <img src="https://skillicons.dev/icons?i=cpp" width="20" height="20" /> Learning soon thanks to Epitech 2nd year.
+- <img src="https://skillicons.dev/icons?i=python" width="20" height="20" /> I like to do some small projects for Epitech or for myself to play with it.
+
+### Frontend Technologies
+- <img src="https://skillicons.dev/icons?i=react" width="20" height="20" /> <img src="https://skillicons.dev/icons?i=next" width="20" height="20" /> <img src="https://skillicons.dev/icons?i=html" width="20" height="20" /> <img src="https://skillicons.dev/icons?i=svelte" width="20" height="20" /> Building modern and reactive web applications.
+- <img src="https://skillicons.dev/icons?i=css" width="20" height="20" /> <img src="https://skillicons.dev/icons?i=tailwind" width="20" height="20" /> Crafting beautiful and responsive designs.
+
+### Backend Technologies
+- <a href="https://aws.amazon.com"><img src="https://skillicons.dev/icons?i=aws" width="20" height="20" /></a> Using AWS during my internship at Adfinitas to host various solutions.
+- <a href="https://www.docker.com"><img src="https://skillicons.dev/icons?i=docker" width="20" height="20" /></a> Creating and managing containerized applications.
+- <img src="https://skillicons.dev/icons?i=githubactions" width="20" height="20" /> <img src="https://skillicons.dev/icons?i=vercel" width="20" height="20" /> Automating deployment and integration processes.
+
+### Database & Tools
+- <img src="https://skillicons.dev/icons?i=mysql" width="20" height="20" /> Manipulating MySQL in Epitech projects and actually in my personal website.
+
+### Other Tools & Technologies
+<img src="https://skillicons.dev/icons?i=git" width="40" height="40" /> <img src="https://skillicons.dev/icons?i=github" width="40" height="40" /> <img src="https://skillicons.dev/icons?i=vscode" width="40" height="40" /> <img src="https://skillicons.dev/icons?i=figma" width="40" height="40" /> <img src="https://skillicons.dev/icons?i=bash" width="40" height="40" /> <img src="https://skillicons.dev/icons?i=notion" width="40" height="40" /> <img src="https://skillicons.dev/icons?i=clion" width="40" height="40" /> <img src="https://skillicons.dev/icons?i=idea" width="40" height="40" />
