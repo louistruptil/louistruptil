@@ -11,11 +11,11 @@ I'm a **2nd Year Epitech Student** and I'm currently working with Adfinitas as a
 
 I'm constantly working on updating my GitHub projects and repositories. Check them out to see what I'm currently working on!
 
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=GitHub)](https://github.com/charliinew)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=GitHub)](https://github.com/louistruptil)
 
 ## 📈 My GitHub Statistics
 
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=charliinew&show_icons=true&theme=radical)
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=louistruptil&show_icons=true&theme=radical)
 
 ## 💻 Tech Skills
 
