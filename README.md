@@ -21,7 +21,7 @@ I'm constantly working on updating my GitHub projects and repositories. Check th
 
 ### Programming Languages
 - <img src="https://skillicons.dev/icons?i=c" width="20" height="20" /> Deep understanding and proficiency in C programming thanks to Epitech 1st year.
-- <img src="https://skillicons.dev/icons?i=cpp" width="20" height="20" /> Learning soon thanks to Epitech 2nd year.
+- <img src="https://skillicons.dev/icons?i=js" width="20" height="20" /> Learning JS thanks to my personnal project.
 - <img src="https://skillicons.dev/icons?i=python" width="20" height="20" /> I like to do some small projects for Epitech or for myself to play with it.
 
 ### Frontend Technologies
